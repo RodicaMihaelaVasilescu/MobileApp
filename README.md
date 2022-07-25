@@ -1,9 +1,3 @@
-# MobileApp
-
-Default user used for testing:
-
-username: anonim , pass: 12345678a
-
 # MOBILE APP PRIVACY POLICY 
 
 ## Last updated [25.07.2022] 

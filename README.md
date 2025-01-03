@@ -14,7 +14,7 @@ Questions or concerns? Reading this Privacy Notice will help you understand your
 
 ## SUMMARY OF KEY POINTS
 
-This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](https://github.com/RodicaMihaelaVasilescu/MobileApp/edit/main/README.md#table-of-contents) below to find the section you are looking for.
+This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#-table-of-contents) below to find the section you are looking for.
 
 What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
 

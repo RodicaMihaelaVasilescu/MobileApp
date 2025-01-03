@@ -1,58 +1,299 @@
-# MOBILE APP PRIVACY POLICY 
+# MUSICSOFT - PRIVACY POLICY
 
-## Last updated [25.07.2022] 
-Our mobile app respects the privacy of our users. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our mobile communication application. Please read this Privacy Policy carefully. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS THE APPLICATION. We reserve the right to make changes to this Privacy Policy at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of this Privacy Policy. You are encouraged to periodically review this Privacy Policy to stay informed of updates. You will be deemed to have been made aware of, will be subject to, and will be deemed to have accepted the changes in any revised Privacy Policy by your continued use of the Application after the date such revised Privacy Policy is posted. This Privacy Policy does not apply to the third-party online/mobile store from which you install the Application, including any in-game virtual items, which may also collect and use data about you. We are not responsible for any of the data collected by any such third party.
+Last updated January 03, 2025
 
-##  COLLECTION OF YOUR INFORMATION 
-We may collect information about you in a variety of ways. The information we may collect via the Application depends on the content and materials you use, and includes: Personal Data Demographic and other personally identifiable information (such as your name and email address) that you voluntarily give to us when choosing to participate in various activities related to the Application, such as chat, posting messages in comment sections or in our forums, liking posts, sending feedback, and responding to surveys. If you choose to share data about yourself via your profile, online chat, or other interactive areas of the Application, please be advised that all data you disclose in these areas is public and your data will be accessible to anyone who accesses the Application. Derivative Data Information our servers automatically collect when you access the Application, such as your native actions that are integral to the Application, including liking, re-blogging, or replying to a post, as well as other interactions with the Application and other users via server log files. 
 
-Financial Data : Not applicable for our apps. There is no payment necessary for this Application. Financial information, such as data related to your payment method is for this application Not Applicable. Facebook Permissions : Not applicable for our apps. Data from Social Networks : Not applicable for our  apps. User information from social networking sites, such as [Apple’s Game Center, Facebook, Google+ Instagram, Pinterest, Twitter], including your name, your social network username, location, gender, birth date, email address, profile picture, and public data for contacts, if you connect your account to such social networks. This information may also include the contact information of anyone you invite to use and/or join the Application. Geo-Location Information : Not applicable for our apps. 
 
-Push Notifications We may request to send you push notifications regarding your account or the Application. If you wish to opt-out from receiving these types of communications, you may turn them off in your device’s settings. Third-Party Data : Not applicable for our apps. Information from third parties, such as personal information or network friends, if you connect your account to the third party and grant the Application permission to access this information. Data From Contests, Giveaways, and Surveys : Not applicable for our apps. Personal and other information you may provide when entering contests or giveaways and/or responding to surveys. 
+This Privacy Notice for Musicsoft by Rodica Mihaela Vasilescu ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
+  - Download and use our mobile application (MusicSoft), or any other application of ours that links to this Privacy Notice
+  - Use MusicSoft. The application is designed to help you learn how to read music sheets and how to play piano. The application is made by Rodica Vasilescu with support from Eduard Florescu.
+  - Engage with us in other related ways, including any sales, marketing, or events
 
-## USE OF YOUR INFORMATION 
-Having accurate information about you permits us to provide you with a smooth, efficient, and customized experience. Specifically, we may use information collected about you via the Application to: 1. Create and manage your account 
-2. Compile anonymous statistical data and analysis for use internally. 
-3. Email you regarding your account or order. 
-4. Enable user-to-user communications. 
-5. Increase the efficiency and operation of the Application. 
-6. Request feedback and contact you about your use of the Application. 
-7. Resolve disputes and troubleshoot problems. 
-8. Send you a newsletter. 
-9. Solicit support for the Application. 
-10. Not applicable : administer sweepstakes, promotions, and contests. 
-11. Not applicable : assist law enforcement and respond to subpoena.
- 12. Not applicable : deliver targeted advertising, coupons, newsletters, and other information regarding promotions and the Application to you. 
-13. Not applicable : fulfill and manage purchases, orders, payments, and other transactions related to the Application. 
-14. Not applicable : generate a personal profile about you to make future visits to the Application more personalized.
- 15. Not applicable : monitor and analyze usage and trends to improve your experience with the Application. 
-16. Not applicable : notify you of updates to the Application 
-17. Not applicable : Offer new products, services, mobile applications, and/or recommendations to you. 18. Not applicable : prevent fraudulent transactions, monitor against theft, and protect against criminal activity. 19. Not applicable : Process payments and refunds. 20. Not applicable : Respond to product and customer service requests. 
+Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at rodica.mihaela.vasilescu@gmail.com.
 
-## DISCLOSURE OF YOUR INFORMATION 
-We may share information we have collected about you in certain situations. Your information may be disclosed as follows: By Law or to Protect Rights If we believe the release of information about you is necessary to respond to legal process, to investigate or remedy potential violations of our policies, or to protect the rights, property, and safety of others, we may share your information as permitted or required by any applicable law, rule, or regulation. This includes exchanging information with other entities for fraud protection and credit risk reduction. Third-Party Service Providers : Not applicable for our apps. We may share your information with third parties that perform services for us or on our behalf, including payment processing, data analysis, email delivery, hosting services, customer service, and marketing assistance. Marketing Communications : Not applicable for our apps. With your consent, or with an opportunity for you to withdraw consent, we may share your information with third parties for marketing purposes, as permitted by law. Interactions with Other Users If you interact with other users of the Application, those users may see your name, profile photo, and descriptions of your activity, including sending invitations to other users, chatting with other users, liking posts, following blogs. Online Postings When you post comments, contributions or other content to the Applications, your posts may be viewed by all users and may be publicly distributed outside the Application in perpetuity Third-Party Advertisers : Not applicable for our apps. We may use third-party advertising companies to serve ads when you visit the Application. These companies may use information about your visits to the Application and other websites that are contained in web cookies in order to provide advertisements about goods and services of interest to you.
- Affiliates : Not applicable for our apps. We may share your information with our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us. Business Partners : Not applicable for our apps. We may share your information with our business partners to offer you certain products, services or promotions. Offer Wall : Not applicable for our apps. The Application may display a third-party-hosted “offer wall.” Such an offer wall allows thirdparty advertisers to offer virtual currency, gifts, or other items to users in return for acceptance and completion of an advertisement offer. Such an offer wall may appear in the Application and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will leave the Application. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account. Social Media Contacts : Not applicable for our apps. If you connect to the Application through a social network, your contacts on the social network will see your name, profile photo, and descriptions of your activity. Other Third Parties : Not applicable for our apps. We may share your information with advertisers and investors for the purpose of conducting general business analysis. We may also share your information with such third parties for marketing purposes, as permitted by law. Sale or Bankruptcy : Not applicable for our apps. If we reorganize or sell all or a portion of our assets, undergo a merger, or are acquired by another entity, we may transfer your information to the successor entity. If we go out of business or enter bankruptcy, your information would be an asset transferred or acquired by a third party. You acknowledge that such transfers may occur and that the transferee may decline honor commitments we made in this Privacy Policy. We are not responsible for the actions of third parties with whom you share personal or sensitive data, and we have no authority to manage or control third-party solicitations. If you no longer wish to receive correspondence, emails or other communications from third parties, you are responsible for contacting the third party directly. 
-TRACKING TECHNOLOGIES
- Cookies and Web Beacons : Not applicable for our apps. We may use cookies, web beacons, tracking pixels, and other tracking technologies on the Application to help customize the Application and improve your experience. When you access the Application, your personal information is not collected through the use of tracking technology. Most browsers are set to accept cookies by default. You can remove or reject cookies, but be aware that such action could affect the availability and functionality of the Application. You may not decline web beacons. However, they can be rendered ineffective by declining all cookies or by modifying your web browser’s settings to notify you each time a cookie is tendered, permitting you to accept or decline cookies on an individual basis. Internet-Based Advertising : Not applicable for our apps. Additionally, we may use third-party software to serve ads on the Application, implement email marketing campaigns, and manage other interactive marketing initiatives. This third-party software may use cookies or similar tracking technology to help manage and optimize your online experience with us. For more information about opting-out of interest-based ads, visit the Network Advertising Initiative Opt-Out Tool or Digital Advertising Alliance Opt-Out Tool. Website Analytics : Not applicable for our apps. 
 
-## THIRD-PARTY WEBSITES 
-The Application may contain links to third-party websites and applications of interest, including advertisements and external services, that are not affiliated with us. Once you have used these links to leave the Application, any information you provide to these third parties is not covered by this Privacy Policy, and we cannot guarantee the safety and privacy of your information. Before visiting and providing any information to any third-party websites, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that website, and should take those steps necessary to, in your discretion, protect the privacy of your information. We are not responsible for the content or privacy and security practices and policies of any third parties, including other sites, services or applications that may be linked to or from the Application. 
+## SUMMARY OF KEY POINTS
 
-## SECURITY OF YOUR INFORMATION 
-We use administrative, technical, and physical security measures to help protect your personal information. While we have taken reasonable steps to secure the personal information you provide to us, please be aware that despite our efforts, no security measures are perfect or impenetrable, and no method of data transmission can be guaranteed against any interception or other type of misuse. Any information disclosed online is vulnerable to interception and misuse by unauthorized parties. Therefore, we cannot guarantee complete security if you provide personal information. 
+This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](https://github.com/RodicaMihaelaVasilescu/MobileApp/edit/main/README.md#table-of-contents) below to find the section you are looking for.
 
-## POLICY FOR CHILDREN :
- Not applicable for our apps. We do not knowingly solicit information from or market to children under the age of 13. If you become aware of any data we have collected from children under age 13, please contact us using the contact information provided below. 
+What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
 
-## CONTROLS FOR DO-NOT-TRACK FEATURES : 
-Not applicable for our  apps. Most web browsers and some mobile operating systems [and our mobile applications] include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Policy. 
+Do we process any sensitive personal information? Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
 
-## OPTIONS REGARDING YOUR INFORMATION 
-You may at any time review or change the information in your account or terminate your account by: 
-● Logging into your account settings and updating your account
- ● Contacting us using the contact information provided below 
-● [Other] Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, some information may be retained in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our Terms of Use and/or comply with legal requirements. Emails and Communications If you no longer wish to receive correspondence, emails, or other communications from us, you may opt-out by: 
-● Noting your preferences at the time you register your account with the Application
- ● Logging into your account settings and updating your preferences. 
-● Contacting us using the contact information provided below If you no longer wish to receive correspondence, emails, or other communications from third parties, you are responsible for contacting the third party directly. CONTACT US If you have questions or comments about this Privacy Policy, please contact us at: rodica.mihaela.vasilescu@gmail.com
+Do we collect any information from third parties? We do not collect any information from third parties.
 
+How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
+
+In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
+
+How do we keep your information safe? We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
+
+What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
+
+How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+
+Want to learn more about what we do with any information we collect? Review the Privacy Notice in full.
+
+## TABLE OF CONTENTS
+
+1. WHAT INFORMATION DO WE COLLECT?
+2. HOW DO WE PROCESS YOUR INFORMATION?
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+5. HOW LONG DO WE KEEP YOUR INFORMATION?
+6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+7. DO WE COLLECT INFORMATION FROM MINORS?
+8. WHAT ARE YOUR PRIVACY RIGHTS?
+9. CONTROLS FOR DO-NOT-TRACK FEATURES
+10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+11. DO WE MAKE UPDATES TO THIS NOTICE?
+12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+
+1. WHAT INFORMATION DO WE COLLECT?
+
+Personal information you disclose to us
+
+In Short: We collect personal information that you provide to us.
+
+We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+
+Sensitive Information. We do not process sensitive information.
+
+All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+
+
+2. HOW DO WE PROCESS YOUR INFORMATION?
+
+In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+
+We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
+
+
+
+
+To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+
+3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+
+In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
+
+If you are located in the EU or UK, this section applies to you.
+
+The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
+Consent. We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
+Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
+Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+If you are located in Canada, this section applies to you.
+
+We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.
+
+In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
+If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
+For investigations and fraud detection and prevention
+For business transactions provided certain conditions are met
+If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
+For identifying injured, ill, or deceased persons and communicating with next of kin
+If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
+If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
+If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
+If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
+If the collection is solely for journalistic, artistic, or literary purposes
+If the information is publicly available and is specified by the regulations
+
+4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+
+In Short: We may share information in specific situations described in this section and/or with the following third parties.
+
+We may need to share your personal information in the following situations:
+Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+
+5. HOW LONG DO WE KEEP YOUR INFORMATION?
+
+In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.
+
+We will only keep your personal information for as long as it is necessary for the purposes set out in this Privacy Notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements).
+
+When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+
+6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+
+In Short: We aim to protect your personal information through a system of organizational and technical security measures.
+
+We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+
+7. DO WE COLLECT INFORMATION FROM MINORS?
+
+In Short: We do not knowingly collect data from or market to children under 18 years of age.
+
+We do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do we knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at rodica.mihaela.vasilescu@gmail.com.
+
+8. WHAT ARE YOUR PRIVACY RIGHTS?
+
+In Short: Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
+
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+
+We will consider and act upon any request in accordance with applicable data protection laws.
+ 
+If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.
+
+If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
+
+Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+
+However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+
+If you have questions or comments about your privacy rights, you may email us at rodica.mihaela.vasilescu@gmail.com.
+
+9. CONTROLS FOR DO-NOT-TRACK FEATURES
+
+Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this Privacy Notice.
+
+California law requires us to let you know how we respond to web browser DNT signals. Because there currently is not an industry or legal standard for recognizing or honoring DNT signals, we do not respond to them at this time.
+
+10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+
+In Short: If you are a resident of California, Colorado, Connecticut, Delaware, Florida, Indiana, Iowa, Kentucky, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, or Virginia, you may have the right to request access to and receive details about the personal information we maintain about you and how we have processed it, correct inaccuracies, get a copy of, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. More information is provided below.
+
+Categories of Personal Information We Collect
+
+We have collected the following categories of personal information in the past twelve (12) months:
+
+Category	Examples	Collected
+A. Identifiers
+Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
+
+NO
+
+B. Personal information as defined in the California Customer Records statute
+Name, contact information, education, employment, employment history, and financial information
+
+NO
+
+C. Protected classification characteristics under state or federal law
+Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data
+
+NO
+
+D. Commercial information
+Transaction information, purchase history, financial details, and payment information
+
+NO
+
+E. Biometric information
+Fingerprints and voiceprints
+
+NO
+
+F. Internet or other similar network activity
+Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
+
+NO
+
+G. Geolocation data
+Device location
+
+NO
+
+H. Audio, electronic, sensory, or similar information
+Images and audio, video or call recordings created in connection with our business activities
+
+NO
+
+I. Professional or employment-related information
+Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
+
+NO
+
+J. Education Information
+Student records and directory information
+
+NO
+
+K. Inferences drawn from collected personal information
+Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
+
+NO
+
+L. Sensitive personal Information		
+
+NO
+
+
+We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
+Receiving help through our customer support channels;
+Participation in customer surveys or contests; and
+Facilitation in the delivery of our Services and to respond to your inquiries.
+Sources of Personal Information
+
+Learn more about the sources of personal information we collect in "WHAT INFORMATION DO WE COLLECT?"
+
+How We Use and Share Personal Information
+
+Learn more about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
+
+Will your information be shared with anyone else?
+
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+
+We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
+
+We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
+
+Your Rights
+
+You have rights under certain US state data protection laws. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law. These rights include:
+Right to know whether or not we are processing your personal data
+Right to access your personal data
+Right to correct inaccuracies in your personal data
+Right to request the deletion of your personal data
+Right to obtain a copy of the personal data you previously shared with us
+Right to non-discrimination for exercising your rights
+Right to opt out of the processing of your personal data if it is used for targeted advertising (or sharing as defined under California’s privacy law), the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
+Depending upon the state where you live, you may also have the following rights:
+Right to access the categories of personal data being processed (as permitted by applicable law, including Minnesota’s privacy law)
+Right to obtain a list of the categories of third parties to which we have disclosed personal data (as permitted by applicable law, including California's and Delaware's privacy law)
+Right to obtain a list of specific third parties to which we have disclosed personal data (as permitted by applicable law, including Minnesota's and Oregon's privacy law)
+Right to review, understand, question, and correct how personal data has been profiled (as permitted by applicable law, including Minnesota’s privacy law)
+Right to limit use and disclosure of sensitive personal data (as permitted by applicable law, including California’s privacy law)
+Right to opt out of the collection of sensitive data and personal data collected through the operation of a voice or facial recognition feature (as permitted by applicable law, including Florida’s privacy law)
+How to Exercise Your Rights
+
+To exercise these rights, you can contact us by submitting a data subject access request, by emailing us at rodica.mihaela.vasilescu@gmail.com, or by referring to the contact details at the bottom of this document.
+
+Under certain US state data protection laws, you can designate an authorized agent to make a request on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with applicable laws.
+
+Request Verification
+
+Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. We will only use personal information provided in your request to verify your identity or authority to make the request. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes.
+
+If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request and the agent will need to provide a written and signed permission from you to submit such request on your behalf.
+
+Appeals
+
+Under certain US state data protection laws, if we decline to take action regarding your request, you may appeal our decision by emailing us at rodica.mihaela.vasilescu@gmail.com. We will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may submit a complaint to your state attorney general.
+
+California "Shine The Light" Law
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
+
+11. DO WE MAKE UPDATES TO THIS NOTICE?
+
+In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
+
+We may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If we make material changes to this Privacy Notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this Privacy Notice frequently to be informed of how we are protecting your information.
+
+12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
+
+If you have questions or comments about this notice, you may email us at rodica.mihaela.vasilescu@gmail.com or contact us by post at:
+
+Rodica Mihaela Vasilescu
+__________
+Craiova, Dolj
+Romania
+
+13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+
+Based on the applicable laws of your country or state of residence in the US, you may have the right to request access to the personal information we collect from you, details about how we have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to our processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please fill out and submit a data subject access request.

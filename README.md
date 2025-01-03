@@ -36,10 +36,10 @@ Want to learn more about what we do with any information we collect? Review the 
 
 ## TABLE OF CONTENTS
 
-1. [WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
-2. [HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
-3. [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#3-what-legal-bases-do-we-rely-on-to-the-process-your-personal-information)
-4. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)
+[1. WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
+[2. HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
+[3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#3-what-legal-bases-do-we-rely)
+[4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)
 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 7. DO WE COLLECT INFORMATION FROM MINORS?

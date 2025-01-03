@@ -116,7 +116,7 @@ We may process your information if you have given us specific permission (i.e., 
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
 
 We may need to share your personal information in the following situations:
-Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+  - Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
 
 ## 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
@@ -142,7 +142,7 @@ We do not knowingly collect, solicit data from, or market to children under 18 y
 
 In Short: Depending on your state of residence in the US or in some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
 
-In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)" below.
 
 We will consider and act upon any request in accordance with applicable data protection laws.
  
@@ -150,7 +150,7 @@ If you are located in the EEA or UK and you believe we are unlawfully processing
 
 If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
 
-Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
@@ -238,15 +238,15 @@ Participation in customer surveys or contests; and
 Facilitation in the delivery of our Services and to respond to your inquiries.
 Sources of Personal Information
 
-Learn more about the sources of personal information we collect in "WHAT INFORMATION DO WE COLLECT?"
+Learn more about the sources of personal information we collect in "[WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)"
 
 How We Use and Share Personal Information
 
-Learn more about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
+Learn more about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)"
 
 Will your information be shared with anyone else?
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)"
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 
@@ -287,7 +287,7 @@ Under certain US state data protection laws, if we decline to take action regard
 
 California "Shine The Light" Law
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?"
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)"
 
 ## 11. DO WE MAKE UPDATES TO THIS NOTICE?
 

@@ -16,7 +16,7 @@ Questions or concerns? Reading this Privacy Notice will help you understand your
 
 This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#table-of-contents) below to find the section you are looking for.
 
-What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
+What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
 
 Do we process any sensitive personal information? Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
 
@@ -36,7 +36,7 @@ Want to learn more about what we do with any information we collect? Review the 
 
 ## TABLE OF CONTENTS
 
-1. WHAT INFORMATION DO WE COLLECT?
+1. [WHAT INFORMATION DO WE COLLECT?](#1.WHAT-INFORMATION-DO-WE-COLLECT?)
 2. HOW DO WE PROCESS YOUR INFORMATION?
 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
@@ -51,9 +51,9 @@ Want to learn more about what we do with any information we collect? Review the 
 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 
-1. WHAT INFORMATION DO WE COLLECT?
+## 1. WHAT INFORMATION DO WE COLLECT?
 
-Personal information you disclose to us
+### Personal information you disclose to us
 
 In Short: We collect personal information that you provide to us.
 

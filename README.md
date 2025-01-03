@@ -52,7 +52,7 @@ Want to learn more about what we do with any information we collect? [Review the
 
 [8. WHAT ARE YOUR PRIVACY RIGHTS?](#8-what-are-your-privacy-rights)
 
-[9. CONTROLS FOR DO-NOT-TRACK FEATURES](#9-controls-for-do-not-track-features#8-what-are-your-privacy-rights)
+[9. CONTROLS FOR DO-NOT-TRACK FEATURES](#9-controls-for-do-not-track-features)
 
 [10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?](#10-do-united-states-residents-have-specific-privacy-rights)
 
@@ -82,10 +82,7 @@ In Short: We process your information to provide, improve, and administer our Se
 
 We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
 
-
-
-
-To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+  - To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
 ## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
@@ -158,6 +155,7 @@ Withdrawing your consent: If we are relying on your consent to process your pers
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
 If you have questions or comments about your privacy rights, you may email us at rodica.mihaela.vasilescu@gmail.com.
+
 
 ## 9. CONTROLS FOR DO-NOT-TRACK FEATURES
 

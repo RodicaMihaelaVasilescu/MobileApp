@@ -37,9 +37,9 @@ Want to learn more about what we do with any information we collect? Review the 
 ## TABLE OF CONTENTS
 
 1. [WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)
-2. HOW DO WE PROCESS YOUR INFORMATION?
-3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
-4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+2. [HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)
+3. [WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?](#3-what-legal-bases-do-we-rely-on-to-the-process-your-personal-information)
+4. [WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)
 5. HOW LONG DO WE KEEP YOUR INFORMATION?
 6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 7. DO WE COLLECT INFORMATION FROM MINORS?
@@ -64,7 +64,7 @@ Sensitive Information. We do not process sensitive information.
 All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
 
 
-2. HOW DO WE PROCESS YOUR INFORMATION?
+## 2. HOW DO WE PROCESS YOUR INFORMATION?
 
 In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
 
@@ -75,7 +75,7 @@ We process your personal information for a variety of reasons, depending on how 
 
 To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+## 3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
 
 In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
 
@@ -102,7 +102,7 @@ If it was produced by an individual in the course of their employment, business,
 If the collection is solely for journalistic, artistic, or literary purposes
 If the information is publicly available and is specified by the regulations
 
-4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+## 4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
 
 In Short: We may share information in specific situations described in this section and/or with the following third parties.
 

@@ -1,4 +1,4 @@
-# MUSICSOFT - PRIVACY POLICY
+# [MUSICSOFT](https://play.google.com/store/apps/details?id=com.musicsoft) - PRIVACY POLICY
 
 Last updated January 03, 2025
 

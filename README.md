@@ -172,6 +172,7 @@ Categories of Personal Information We Collect
 We have collected the following categories of personal information in the past twelve (12) months:
 
 Category	Examples	Collected
+
 **A. Identifiers**
 Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
 

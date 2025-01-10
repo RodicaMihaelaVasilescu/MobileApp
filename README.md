@@ -4,7 +4,7 @@ Last updated January 03, 2025
 
 
 
-This Privacy Notice for Musicsoft by Rodica Mihaela Vasilescu ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
+This Privacy Notice for **Musicsoft** by **Rodica Mihaela Vasilescu** ("we," "us," or "our"), describes how and why we might access, collect, store, use, and/or share ("process") your personal information when you use our services ("Services"), including when you:
   - Download and use our mobile application (MusicSoft), or any other application of ours that links to this Privacy Notice
   - Use MusicSoft. The application is designed to help you learn how to read music sheets and how to play piano. The application is made by Rodica Vasilescu with support from Eduard Florescu.
   - Engage with us in other related ways, including any sales, marketing, or events
@@ -14,25 +14,25 @@ Questions or concerns? Reading this Privacy Notice will help you understand your
 
 ## SUMMARY OF KEY POINTS
 
-This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [table of contents](#table-of-contents) below to find the section you are looking for.
+This summary provides key points from our Privacy Notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our [**table of contents**](#table-of-contents) below to find the section you are looking for.
 
-What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [personal information you disclose to us](#personal-information-you-disclose-to-us).
+What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about [**personal information you disclose to us**](#personal-information-you-disclose-to-us).
 
 Do we process any sensitive personal information? Some of the information may be considered "special" or "sensitive" in certain jurisdictions, for example your racial or ethnic origins, sexual orientation, and religious beliefs. We do not process sensitive personal information.
 
 Do we collect any information from third parties? We do not collect any information from third parties.
 
-How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [how we process your information](#2-how-do-we-process-your-information).
+How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about [**how we process your information**](#2-how-do-we-process-your-information).
 
-In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about [when and with whom we share your personal information](#4-when-and-with-whom-do-we-share-your-personal-information).
+In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about [**when and with whom we share your personal information**](#4-when-and-with-whom-do-we-share-your-personal-information).
 
-How do we keep your information safe? We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [how we keep your information safe](#5-how-long-do-we-keep-your-information).
+How do we keep your information safe? We have adequate organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about [**how we keep your information safe**](#5-how-long-do-we-keep-your-information).
 
 What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about [your privacy rights](#8-what-are-your-privacy-rights).
 
 How do you exercise your rights? The easiest way to exercise your rights is by submitting a data subject access request, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
 
-Want to learn more about what we do with any information we collect? [Review the Privacy Notice in full](#table-of-contents).
+Want to learn more about what we do with any information we collect? [**Review the Privacy Notice in full**](#table-of-contents).
 
 ## TABLE OF CONTENTS
 
@@ -91,9 +91,9 @@ In Short: We only process your personal information when we believe it is necess
 If you are located in the EU or UK, this section applies to you.
 
 The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
-  - Consent. We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
-  - Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
-  - Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+  - **Consent**. We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
+  - **Legal Obligations**. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
+  - **Vital Interests**. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 If you are located in Canada, this section applies to you.
 
 We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.
@@ -150,7 +150,7 @@ If you are located in the EEA or UK and you believe we are unlawfully processing
 
 If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
 
-Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[HOW CAN YOU CONTACT US ABOUT THIS NOTICE?](#12-how-can-you-contact-us-about-this-notice)" below.
+Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "[**HOW CAN YOU CONTACT US ABOUT THIS NOTICE?**](#12-how-can-you-contact-us-about-this-notice)" below.
 
 However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
 
@@ -172,64 +172,64 @@ Categories of Personal Information We Collect
 We have collected the following categories of personal information in the past twelve (12) months:
 
 Category	Examples	Collected
-A. Identifiers
+**A. Identifiers**
 Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
 
-NO
+**NO**
 
-B. Personal information as defined in the California Customer Records statute
+**B. Personal information** as defined in the California Customer Records statute
 Name, contact information, education, employment, employment history, and financial information
 
-NO
+**NO**
 
 C. Protected classification characteristics under state or federal law
 Gender, age, date of birth, race and ethnicity, national origin, marital status, and other demographic data
 
-NO
+**NO**
 
-D. Commercial information
+**D. Commercial information**
 Transaction information, purchase history, financial details, and payment information
 
-NO
+**NO**
 
-E. Biometric information
+**E. Biometric information**
 Fingerprints and voiceprints
 
-NO
+**NO**
 
-F. Internet or other similar network activity
+**F. Internet or other similar network activity**
 Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
 
-NO
+**NO**
 
-G. Geolocation data
+**G. Geolocation data**
 Device location
 
-NO
+**NO**
 
-H. Audio, electronic, sensory, or similar information
+**H. Audio, electronic, sensory, or similar information**
 Images and audio, video or call recordings created in connection with our business activities
 
-NO
+**NO**
 
-I. Professional or employment-related information
+**I. Professional or employment-related information**
 Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
 
-NO
+**NO**
 
-J. Education Information
+**J. Education Information**
 Student records and directory information
 
-NO
+**NO**
 
-K. Inferences drawn from collected personal information
+**K. Inferences drawn from collected personal information**
 Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
 
-NO
+**NO**
 
-L. Sensitive personal Information		
+**L. Sensitive personal Information**	
 
-NO
+**NO**
 
 
 We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
@@ -238,15 +238,15 @@ Participation in customer surveys or contests; and
 Facilitation in the delivery of our Services and to respond to your inquiries.
 Sources of Personal Information
 
-Learn more about the sources of personal information we collect in "[WHAT INFORMATION DO WE COLLECT?](#1-what-information-do-we-collect)"
+Learn more about the sources of personal information we collect in "[**WHAT INFORMATION DO WE COLLECT?**](#1-what-information-do-we-collect)"
 
 How We Use and Share Personal Information
 
-Learn more about how we use your personal information in the section, "[HOW DO WE PROCESS YOUR INFORMATION?](#2-how-do-we-process-your-information)"
+Learn more about how we use your personal information in the section, "[**HOW DO WE PROCESS YOUR INFORMATION?**](#2-how-do-we-process-your-information)"
 
 Will your information be shared with anyone else?
 
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?](#4-when-and-with-whom-do-we-share-your-personal-information)"
+We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about how we disclose personal information to in the section, "[**WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?**](#4-when-and-with-whom-do-we-share-your-personal-information)"
 
 We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
 

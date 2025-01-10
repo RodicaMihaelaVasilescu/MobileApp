@@ -9,7 +9,7 @@ This Privacy Notice for **Musicsoft** by **Rodica Mihaela Vasilescu** ("we," "us
   - Use MusicSoft. The application is designed to help you learn how to read music sheets and how to play piano. The application is made by Rodica Vasilescu with support from Eduard Florescu.
   - Engage with us in other related ways, including any sales, marketing, or events
 
-Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at rodica.mihaela.vasilescu@gmail.com.
+Questions or concerns? Reading this Privacy Notice will help you understand your privacy rights and choices. We are responsible for making decisions about how your personal information is processed. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at **rodica.mihaela.vasilescu@gmail.com**.
 
 
 ## SUMMARY OF KEY POINTS

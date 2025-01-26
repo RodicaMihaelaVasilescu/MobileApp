@@ -1,5 +1,5 @@
 # [MUSICSOFT](https://play.google.com/store/apps/details?id=com.musicsoft) - PRIVACY POLICY
-_
+
 This Privacy Policy applies to the app [**MusicSoft** (com.musicsoft)](https://play.google.com/store/apps/details?id=com.musicsoft), developed and published by **Rodica-Mihaela Vasilescu**
 __________
 
